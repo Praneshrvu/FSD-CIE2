@@ -1,0 +1,17 @@
+[
+  {
+    "movieId": "m1",
+    "addedAt": "2026-10-03T08:11:34.040Z",
+    "status": "watched",
+    "personalNotes": "Rewatching on 4K Blu-ray - incredible score by Hans Zimmer.",
+    "userRating": 0,
+    "updatedAt": "2026-10-03T08:14:41.695Z"
+  },
+  {
+    "movieId": "m5",
+    "addedAt": "2024-10-02T14:30:00.000Z",
+    "status": "want_to_watch",
+    "personalNotes": "Plan to watch on IMAX with friends this weekend!",
+    "userRating": 0
+  }
+]

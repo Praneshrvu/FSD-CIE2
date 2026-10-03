@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rev-1791014989426",
+    "movieId": "m1",
+    "movieTitle": "Interstellar",
+    "author": "Aarav Patel",
+    "rating": 5,
+    "reviewText": "A stellar masterpiece with breathtaking visuals and emotional depth.",
+    "date": "2026-10-03T08:09:49.426Z",
+    "likes": 0
+  },
+  {
+    "id": "rev-1",
+    "movieId": "m1",
+    "movieTitle": "Interstellar",
+    "author": "Alex Rivera",
+    "rating": 5,
+    "reviewText": "A masterpiece of hard sci-fi and human emotional depth. The soundtrack sends chills down my spine every single time.",
+    "date": "2024-09-15T09:20:00.000Z",
+    "likes": 24
+  },
+  {
+    "id": "rev-2",
+    "movieId": "m3",
+    "movieTitle": "The Dark Knight",
+    "author": "Priya Sharma",
+    "rating": 5,
+    "reviewText": "Heath Ledger's performance as the Joker is unmatched in cinematic history. Timeless direction by Nolan.",
+    "date": "2024-09-22T18:45:00.000Z",
+    "likes": 42
+  },
+  {
+    "id": "rev-3",
+    "movieId": "m7",
+    "movieTitle": "Oppenheimer",
+    "author": "David Chen",
+    "rating": 4,
+    "reviewText": "Intense pacing and sound design. Cillian Murphy gave the performance of his career. Dense yet gripping.",
+    "date": "2024-10-01T11:15:00.000Z",
+    "likes": 18
+  }
+]

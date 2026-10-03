@@ -1,0 +1,17 @@
+{
+  "name": "cinesphere",
+  "version": "1.0.0",
+  "description": "CineSphere - Full-Stack Movie Discovery, Watchlist and Review Application",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "dev": "npx concurrently \"npm run server\" \"npm run client\"",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": ["react", "express", "fullstack", "cie2", "movie-app"],
+  "author": "Student",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
